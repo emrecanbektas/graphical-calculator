@@ -254,7 +254,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Emrecan Bektas** — [@emrecanbektas](https://github.com/emrecanbektas)
 
-**Project Link:** — (https://github.com/emrecanbektas/graphical-calculator)
+**Project Link:** — https://github.com/emrecanbektas/graphical-calculator
 
 ---
 
