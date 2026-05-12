@@ -253,6 +253,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📬 Contact
 
 **Emrecan Bektas** — [@emrecanbektas](https://github.com/emrecanbektas)
+**Baran Salis** — [@Baransalis42](https://github.com/Baransalis42)
 
 **Project Link:** — https://github.com/emrecanbektas/graphical-calculator
 
