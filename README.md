@@ -244,7 +244,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🙏 Acknowledgments
 
-- Forked from [emrecanbektas/graphical-calculator](https://github.com/emrecanbektas/graphical-calculator)
 - [math.js](https://mathjs.org/) for the powerful expression parser
 - [Recharts](https://recharts.org/) for elegant chart rendering
 - [Vite](https://vitejs.dev/) for the blazing-fast dev experience
@@ -253,9 +252,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-**Baran Salis** — [@Baransalis42](https://github.com/Baransalis42)
+**Emrecan Bektas** — [@emrecanbektas](https://github.com/emrecanbektas)
 
-**Project Link:** [https://github.com/Baransalis42/graphical-calculator](https://github.com/Baransalis42/graphical-calculator)
+**Project Link:** — (https://github.com/emrecanbektas/graphical-calculator)
 
 ---
 
